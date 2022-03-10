@@ -1,0 +1,16 @@
+<launch>
+
+    <node pkg="ar_week5_test" type="cubic_traj_planner.py" name="planner"/>
+
+    <node pkg="ar_week5_test" type="compute_cubic_coeffs.py" name="computer"/>
+    
+    <node pkg="ar_week5_test" type="plot_cubic_traj.py" name="plotter"/>
+
+    <node pkg="ar_week5_test" type="points_generator.py" name="generator"/>
+    
+    <node pkg="rqt_plot" type="rqt_plot" name="rqt_plot"/>
+
+    <node pkg="rqt_graph" type="rqt_graph" name="rqt_graph"/>
+  
+
+</launch>

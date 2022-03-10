@@ -1,4 +1,3 @@
-# ros-cubic-trajectory-generator
 Code Developed by Mourad Lasga Terceras
 190411013
 
