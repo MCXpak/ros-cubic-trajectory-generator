@@ -1,8 +1,12 @@
 # ros-cubic-trajectory-generator
-Code Developed by Mourad Lasga Terceras
-190411013
+Code Developed by Mourad Lasga Terceras using ROS
 
 This program generates random point-to-point cubic trajectories connecting pairs of randomly generated points every 20 seconds.
+
+
+https://user-images.githubusercontent.com/52221895/158928550-37a4a832-8651-4849-b0e7-b1fb1c554b7d.mp4
+
+
 
 To run the package:
 
